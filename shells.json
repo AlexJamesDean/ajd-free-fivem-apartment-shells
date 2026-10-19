@@ -1,0 +1,389 @@
+[
+  {
+    "model": "ajd_apt_studio_s",
+    "label": "Studio Apartment (Small)",
+    "plan": "Studio",
+    "size": "Small",
+    "rooms": [
+      "Living",
+      "Bathroom",
+      "Kitchen"
+    ],
+    "footprint": [
+      7.6,
+      4.5
+    ],
+    "area": 34.2,
+    "entry": {
+      "x": 1.7,
+      "y": 1.2,
+      "z": 1,
+      "h": 0,
+      "room": "Living"
+    }
+  },
+  {
+    "model": "ajd_apt_studio_m",
+    "label": "Studio Apartment (Medium)",
+    "plan": "Studio",
+    "size": "Medium",
+    "rooms": [
+      "Living",
+      "Bathroom",
+      "Kitchen"
+    ],
+    "footprint": [
+      8.4,
+      5
+    ],
+    "area": 42,
+    "entry": {
+      "x": 1.85,
+      "y": 1.2,
+      "z": 1,
+      "h": 0,
+      "room": "Living"
+    }
+  },
+  {
+    "model": "ajd_apt_studio_l",
+    "label": "Studio Apartment (Large)",
+    "plan": "Studio",
+    "size": "Large",
+    "rooms": [
+      "Living",
+      "Bathroom",
+      "Kitchen"
+    ],
+    "footprint": [
+      9.7,
+      5.8
+    ],
+    "area": 56.26,
+    "entry": {
+      "x": 2.075,
+      "y": 1.2,
+      "z": 1,
+      "h": 0,
+      "room": "Living"
+    }
+  },
+  {
+    "model": "ajd_apt_one_bed_s",
+    "label": "One Bed Apartment (Small)",
+    "plan": "One Bed",
+    "size": "Small",
+    "rooms": [
+      "Living",
+      "Kitchen",
+      "Bathroom",
+      "Bedroom",
+      "Hall"
+    ],
+    "footprint": [
+      8.8,
+      8.1
+    ],
+    "area": 55.8,
+    "entry": {
+      "x": 2.05,
+      "y": 1.2,
+      "z": 1,
+      "h": 0,
+      "room": "Living"
+    }
+  },
+  {
+    "model": "ajd_apt_one_bed_m",
+    "label": "One Bed Apartment (Medium)",
+    "plan": "One Bed",
+    "size": "Medium",
+    "rooms": [
+      "Living",
+      "Kitchen",
+      "Bathroom",
+      "Bedroom",
+      "Hall"
+    ],
+    "footprint": [
+      9.7,
+      9
+    ],
+    "area": 68.3,
+    "entry": {
+      "x": 2.23,
+      "y": 1.2,
+      "z": 1,
+      "h": 0,
+      "room": "Living"
+    }
+  },
+  {
+    "model": "ajd_apt_one_bed_l",
+    "label": "One Bed Apartment (Large)",
+    "plan": "One Bed",
+    "size": "Large",
+    "rooms": [
+      "Living",
+      "Kitchen",
+      "Bathroom",
+      "Bedroom",
+      "Hall"
+    ],
+    "footprint": [
+      11.2,
+      10.4
+    ],
+    "area": 90.95,
+    "entry": {
+      "x": 2.53,
+      "y": 1.2,
+      "z": 1,
+      "h": 0,
+      "room": "Living"
+    }
+  },
+  {
+    "model": "ajd_apt_two_bed_s",
+    "label": "Two Bed Apartment (Small)",
+    "plan": "Two Bed",
+    "size": "Small",
+    "rooms": [
+      "Hall",
+      "Living",
+      "Kitchen",
+      "Bedroom 1",
+      "Bedroom 2",
+      "Bathroom"
+    ],
+    "footprint": [
+      10,
+      7.2
+    ],
+    "area": 67.52,
+    "entry": {
+      "x": 1.35,
+      "y": 1.2,
+      "z": 1,
+      "h": 0,
+      "room": "Hall"
+    }
+  },
+  {
+    "model": "ajd_apt_two_bed_m",
+    "label": "Two Bed Apartment (Medium)",
+    "plan": "Two Bed",
+    "size": "Medium",
+    "rooms": [
+      "Hall",
+      "Living",
+      "Kitchen",
+      "Bedroom 1",
+      "Bedroom 2",
+      "Bathroom"
+    ],
+    "footprint": [
+      11,
+      8
+    ],
+    "area": 82.4,
+    "entry": {
+      "x": 1.5,
+      "y": 1.2,
+      "z": 1,
+      "h": 0,
+      "room": "Hall"
+    }
+  },
+  {
+    "model": "ajd_apt_two_bed_l",
+    "label": "Two Bed Apartment (Large)",
+    "plan": "Two Bed",
+    "size": "Large",
+    "rooms": [
+      "Hall",
+      "Living",
+      "Kitchen",
+      "Bedroom 1",
+      "Bedroom 2",
+      "Bathroom"
+    ],
+    "footprint": [
+      12.7,
+      9.2
+    ],
+    "area": 109.64,
+    "entry": {
+      "x": 1.75,
+      "y": 1.2,
+      "z": 1,
+      "h": 0,
+      "room": "Hall"
+    }
+  },
+  {
+    "model": "ajd_apt_three_bed_s",
+    "label": "Three Bed Apartment (Small)",
+    "plan": "Three Bed",
+    "size": "Small",
+    "rooms": [
+      "Hall",
+      "Living",
+      "Bathroom",
+      "Kitchen",
+      "Bedroom 1",
+      "Bedroom 2",
+      "Bedroom 3"
+    ],
+    "footprint": [
+      11.7,
+      11.4
+    ],
+    "area": 97.56,
+    "entry": {
+      "x": 1.1,
+      "y": 1.2,
+      "z": 1,
+      "h": 0,
+      "room": "Hall"
+    }
+  },
+  {
+    "model": "ajd_apt_three_bed_m",
+    "label": "Three Bed Apartment (Medium)",
+    "plan": "Three Bed",
+    "size": "Medium",
+    "rooms": [
+      "Hall",
+      "Living",
+      "Bathroom",
+      "Kitchen",
+      "Bedroom 1",
+      "Bedroom 2",
+      "Bedroom 3"
+    ],
+    "footprint": [
+      12.9,
+      12.6
+    ],
+    "area": 118.3,
+    "entry": {
+      "x": 1.2,
+      "y": 1.2,
+      "z": 1,
+      "h": 0,
+      "room": "Hall"
+    }
+  },
+  {
+    "model": "ajd_apt_three_bed_l",
+    "label": "Three Bed Apartment (Large)",
+    "plan": "Three Bed",
+    "size": "Large",
+    "rooms": [
+      "Hall",
+      "Living",
+      "Bathroom",
+      "Kitchen",
+      "Bedroom 1",
+      "Bedroom 2",
+      "Bedroom 3"
+    ],
+    "footprint": [
+      14.9,
+      14.5
+    ],
+    "area": 157.72,
+    "entry": {
+      "x": 1.4,
+      "y": 1.2,
+      "z": 1,
+      "h": 0,
+      "room": "Hall"
+    }
+  },
+  {
+    "model": "ajd_apt_penthouse_s",
+    "label": "Penthouse Apartment (Small)",
+    "plan": "Penthouse",
+    "size": "Small",
+    "rooms": [
+      "Lounge",
+      "Kitchen",
+      "Dining",
+      "Corridor",
+      "Master bedroom",
+      "En suite",
+      "Guest bedroom",
+      "Office"
+    ],
+    "footprint": [
+      11.7,
+      12.6
+    ],
+    "area": 147.42,
+    "entry": {
+      "x": 4.05,
+      "y": 1.2,
+      "z": 1,
+      "h": 0,
+      "room": "Lounge"
+    }
+  },
+  {
+    "model": "ajd_apt_penthouse_m",
+    "label": "Penthouse Apartment (Medium)",
+    "plan": "Penthouse",
+    "size": "Medium",
+    "rooms": [
+      "Lounge",
+      "Kitchen",
+      "Dining",
+      "Corridor",
+      "Master bedroom",
+      "En suite",
+      "Guest bedroom",
+      "Office"
+    ],
+    "footprint": [
+      13,
+      14
+    ],
+    "area": 182,
+    "entry": {
+      "x": 4.5,
+      "y": 1.2,
+      "z": 1,
+      "h": 0,
+      "room": "Lounge"
+    }
+  },
+  {
+    "model": "ajd_apt_penthouse_l",
+    "label": "Penthouse Apartment (Large)",
+    "plan": "Penthouse",
+    "size": "Large",
+    "rooms": [
+      "Lounge",
+      "Kitchen",
+      "Dining",
+      "Corridor",
+      "Master bedroom",
+      "En suite",
+      "Guest bedroom",
+      "Office"
+    ],
+    "footprint": [
+      15,
+      16.1
+    ],
+    "area": 241.5,
+    "entry": {
+      "x": 5.2,
+      "y": 1.2,
+      "z": 1,
+      "h": 0,
+      "room": "Lounge"
+    }
+  }
+]
