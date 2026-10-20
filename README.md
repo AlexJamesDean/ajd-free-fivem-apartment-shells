@@ -18,7 +18,7 @@ I built every shell in this pack with **[MLO Studio](https://gum.co/u/itfzpfoh)*
 
 ### [Get MLO Studio on Gumroad →](https://gum.co/u/itfzpfoh)
 
-Want an interior but don't want to build it yourself? Claim a **[free MLO build](https://ajthedev.gumroad.com/l/FreeMLOBuild)** (up to 6 rooms) and I'll make it in the Studio for you. Questions before you buy? Ask on **[Discord](https://discord.gg/YKAKTQhvEw)**.
+Questions before you buy? Ask on **[Discord](https://discord.gg/YKAKTQhvEw)**.
 
 ---
 
